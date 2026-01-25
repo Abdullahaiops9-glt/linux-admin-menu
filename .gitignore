@@ -1,0 +1,4 @@
+## 📄 `.gitignore`
+
+```gitignore
+*.log
